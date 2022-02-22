@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comparable&amp;Comparator/Comparable&amp;Comparator.iml" filepath="$PROJECT_DIR$/Comparable&amp;Comparator/Comparable&amp;Comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap&amp;HashSet/HashMap&amp;HashSet.iml" filepath="$PROJECT_DIR$/HashMap&amp;HashSet/HashMap&amp;HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/MAP.iml" filepath="$PROJECT_DIR$/MAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThucHanh/ThucHanh.iml" filepath="$PROJECT_DIR$/ThucHanh/ThucHanh.iml" />

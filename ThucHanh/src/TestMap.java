@@ -11,6 +11,9 @@ public class TestMap {
         hashMap.put(2, "Hieu");
         hashMap.put(1, "Duc");
         hashMap.put(4, "Giang");
+        hashMap.put(100, "Hien");
+        hashMap.put(101, "Thang");
+        hashMap.put(11, "Duy");
         System.out.println("Display entries in HashMap: ");
         System.out.println(hashMap + "\n");
 
